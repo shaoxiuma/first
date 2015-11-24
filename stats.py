@@ -15,3 +15,5 @@ print len(values), 'values were read in'
 print 'The sum of the input values is:', total
 print 'The mean of the input values is:', np.mean(values)
 print 'in master:'
+print 'change in the branch:'
+print 'change without add and commit:'
